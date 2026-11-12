@@ -71,15 +71,16 @@
     "upstream": {
       "flake": false,
       "locked": {
-        "lastModified": 1793415484,
-        "narHash": "sha256-peyr2EL4POnjfrwUXrvShpQbel2I9zX/srPRWtFyXdg=",
+        "lastModified": 1794494809,
+        "narHash": "sha256-wo+/ddeNRc1SDqcDt9py+bHY5ew1FxdBsO8VznfFTto=",
         "owner": "buungoo",
         "repo": "local_roborock_server",
-        "rev": "02a1770b7f224dc1fe78887ae5f10e77ee267269",
+        "rev": "88d459dd6ec8b973343e8faa2d31f51ddb03be8b",
         "type": "github"
       },
       "original": {
         "owner": "buungoo",
+        "ref": "local/roborock",
         "repo": "local_roborock_server",
         "type": "github"
       }

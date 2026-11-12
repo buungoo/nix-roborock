@@ -4,7 +4,7 @@
   inputs = {
     nixpkgs.url = "https://channels.nixos.org/nixpkgs-unstable/nixexprs.tar.zst";
     upstream = {
-      url = "github:buungoo/local_roborock_server";
+      url = "github:buungoo/local_roborock_server?ref=local/roborock";
       flake = false;
     };
     pyproject-nix = {
