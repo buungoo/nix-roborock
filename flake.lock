@@ -2,11 +2,11 @@
   "nodes": {
     "nixpkgs": {
       "locked": {
-        "lastModified": 1794408178,
-        "narHash": "sha256-jnNhqdXGJs5qIvdzFwABBvhzuPHLK09CcWKtvYVxVOk=",
-        "rev": "9397dcb09c9598a33509fbc0cce699bd4e6c84d5",
+        "lastModified": 1795187554,
+        "narHash": "sha256-HgLXdkBA+2GBBOI/9989wbvWWkkqS88yEguMpFKAbDI=",
+        "rev": "9996594bd38077de6a018ec17453ba3d99182787",
         "type": "tarball",
-        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1117836.9397dcb09c95/nixexprs.tar.zst"
+        "url": "https://releases.nixos.org/nixpkgs/nixpkgs-26.11pre1125400.9996594bd380/nixexprs.tar.zst"
       },
       "original": {
         "type": "tarball",
@@ -71,11 +71,11 @@
     "upstream": {
       "flake": false,
       "locked": {
-        "lastModified": 1794494809,
-        "narHash": "sha256-wo+/ddeNRc1SDqcDt9py+bHY5ew1FxdBsO8VznfFTto=",
+        "lastModified": 1795266808,
+        "narHash": "sha256-745AgDD40Sv81AiXheKQFcF7OcBc2Ecgp8+XVnIBd1g=",
         "owner": "buungoo",
         "repo": "local_roborock_server",
-        "rev": "88d459dd6ec8b973343e8faa2d31f51ddb03be8b",
+        "rev": "26c5ff46e764ee6e59a4bf559c60a532f559946c",
         "type": "github"
       },
       "original": {
